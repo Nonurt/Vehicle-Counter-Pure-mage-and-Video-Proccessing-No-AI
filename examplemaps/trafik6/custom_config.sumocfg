@@ -1,0 +1,10 @@
+<configuration>
+    <input>
+        <net-file value="deneme_edge_effortlu.net.xml"/>
+        <route-files value="routes.rou.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="600"/>
+    </time>
+</configuration>

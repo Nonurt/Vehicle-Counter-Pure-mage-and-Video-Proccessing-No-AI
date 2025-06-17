@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/trafik_izleme_aktarma.iml" filepath="$PROJECT_DIR$/.idea/trafik_izleme_aktarma.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/trafik_son.iml" filepath="$PROJECT_DIR$/.idea/trafik_son.iml" />
+>>>>>>> 1970ec4a86d87e78bc992a134d2372bb0ba3a69a
+    </modules>
+  </component>
+</project>

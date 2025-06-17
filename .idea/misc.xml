@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+<<<<<<< HEAD
+    <option name="sdkName" value="Python 3.10 (trafik_izleme_aktarma)" />
+=======
+    <option name="sdkName" value="Python 3.10 (trafik_son)" />
+>>>>>>> 1970ec4a86d87e78bc992a134d2372bb0ba3a69a
+  </component>
+</project>

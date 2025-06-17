@@ -1,8 +1,0 @@
-Yöntem,Ortalama Bekleme Süresi (s),Toplam CO₂ (mg),Ortalama Hız (m/s),Toplam Throughput (araç),Ortalama Yoğunluk (araç/m)
-Static,5.74,41107768,5.38,220,0.011228
-Webster,4.55,42709401,5.5,220,0.011719
-Actuated,2.27,33958002,6.9,232,0.009056
-Max-Pressure,3.08,35590879,6.97,231,0.008962
-SOTL-Improved,1.75,26496268,9.29,242,0.006825
-SOTL-Platoon,1.75,26496268,9.29,242,0.006825
-SOTL-MultiAgent,1.75,26496268,9.29,242,0.006825
